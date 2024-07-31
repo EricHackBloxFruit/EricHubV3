@@ -15964,18 +15964,18 @@ spawn(function()
     end)
     end)
 
-print("Domadic Hub Load Complete")
+print("Eric Hub Load Complete")
 
 game.StarterGui:SetCore("SendNotification", {
-      Icon = "http://www.roblox.com/asset/?id=12523036534";
-      Title = "Domadic Hub", 
+      Icon = "http://www.roblox.com/asset/?id=18721949971";
+      Title = "Eric Hub", 
       Text = "Welcome To Script!!";
 })
 wait(3)
 game.StarterGui:SetCore("SendNotification", {
-      Icon = "http://www.roblox.com/asset/?id=12523036534";
-      Title = "Domadic Hub", 
-      Text = "made by @miidraayeerng อยาก Yed Owner Zps วะ";
+      Icon = "http://www.roblox.com/asset/?id=18721949971";
+      Title = "Eric Hub", 
+      Text = "made by Eric ;
 })
 
    
